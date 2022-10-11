@@ -7,13 +7,16 @@ using System.Threading;
 using System.Threading.Tasks;
 using System;
 
-namespace MyApp 
+namespace SoHoc 
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            Console.WriteLine("Hello World!");
+            SohocController shctr = new SohocController();
+            shctr.TaoDuLieuMau(10);
+            shctr.HienThi();
+            Console.ReadKey();
         }
     }
 }
