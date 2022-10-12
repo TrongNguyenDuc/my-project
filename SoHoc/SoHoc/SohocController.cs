@@ -17,13 +17,11 @@ namespace SoHoc
                 bool check = true;
                 do
                 {
-                    int so = ran.Next(1, 100);
-                    Console.WriteLine($"{so}");
+                    int so = ran.Next(1, 1000);
                     int pos = danhsach.FindIndex(x=> x.Giatri==so);
-                    if (pos==-1)
+                    if (pos == -1)
                     {
-                        danhsach.Add(new SoHoc() { Giatri = so });
-                        check = true;
+                        danhsach.Add(new SoHoc() { Giatri= so});
                     }
                     else check = false;
                     if (danhsach.Count == n) break;

@@ -54,16 +54,11 @@ namespace SoHoc
         }
         private bool sodoixung()
         {
-            int m = 0;
-            int tam = gt;
+            int tam = 0;
             while (gt > 0)
             {
-                int x = gt % 10;
-                gt = gt / 10;
-                m = m * 10 + x;
-            }
-            if (m==tam)
-            {
+                tam = tam * 10 + gt % 10;
+                gt /= 10;
                 return true;
             }
             return false;
