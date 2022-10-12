@@ -6,6 +6,13 @@ using System.Threading.Tasks;
 
 namespace SoHoc
 {
+    enum Loaiso
+    {
+        Tatca,
+        Sochan,
+        Songuyento,
+        Sodoixung
+    }
     internal class SoHoc
     {
         private int gt;

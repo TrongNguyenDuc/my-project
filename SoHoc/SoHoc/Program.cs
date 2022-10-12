@@ -15,7 +15,11 @@ namespace SoHoc
         {
             SohocController shctr = new SohocController();
             shctr.TaoDuLieuMau(10);
-            shctr.HienThi();
+            shctr.HienThi(Loaiso.Tatca);
+            Console.WriteLine("\n");
+            shctr.HienThi(Loaiso.Sochan);
+            Console.WriteLine("\n"); 
+            shctr.HienThi(Loaiso.Songuyento);
             Console.ReadKey();
         }
     }

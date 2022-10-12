@@ -28,12 +28,25 @@ namespace SoHoc
                 } while (!check);
             }
         }
-        public void HienThi()
+        public void HienThi(Loaiso ls)
         {
-            for (int i = 0; i < danhsach.Count; i++)
-            {
-                danhsach[i].hienthi();
-            }
+             switch (ls)
+             {
+                case Loaiso.Tatca:
+                    danhsach.ForEach(x => x.hienthi());
+                    break;
+                case Loaiso.Sochan:
+                    danhsach.FindAll(x => x.LaSoChan).ForEach(x => x.hienthi());
+                    break;
+                case Loaiso.Songuyento:
+                    danhsach.FindAll(x => x.LaSONT).ForEach(x => x.hienthi());
+                    break;
+                case Loaiso.Sodoixung:
+                    danhsach.FindAll(x => x.LaSoDoiXung).ForEach(x => x.hienthi());
+                    break;
+
+             }
+                
         }
 
     }
