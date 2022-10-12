@@ -8,19 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Virtue Nguyen\\.nuget\\packages\\": {}
+    "C:\\Users\\ductrong.nguyen\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Virtue Nguyen\\Documents\\GitHub\\project\\SoHoc\\SoHoc\\SoHoc.csproj",
+      "projectUniqueName": "C:\\Users\\ductrong.nguyen\\Documents\\GitHub\\project\\SoHoc\\SoHoc\\SoHoc.csproj",
       "projectName": "SoHoc",
-      "projectPath": "C:\\Users\\Virtue Nguyen\\Documents\\GitHub\\project\\SoHoc\\SoHoc\\SoHoc.csproj",
-      "packagesPath": "C:\\Users\\Virtue Nguyen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Virtue Nguyen\\Documents\\GitHub\\project\\SoHoc\\SoHoc\\obj\\",
+      "projectPath": "C:\\Users\\ductrong.nguyen\\Documents\\GitHub\\project\\SoHoc\\SoHoc\\SoHoc.csproj",
+      "packagesPath": "C:\\Users\\ductrong.nguyen\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ductrong.nguyen\\Documents\\GitHub\\project\\SoHoc\\SoHoc\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Virtue Nguyen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ductrong.nguyen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -51,7 +56,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

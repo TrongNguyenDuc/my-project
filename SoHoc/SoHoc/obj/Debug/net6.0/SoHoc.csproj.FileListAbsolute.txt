@@ -13,3 +13,18 @@ C:\Users\Virtue Nguyen\Documents\GitHub\project\SoHoc\SoHoc\obj\Debug\net6.0\ref
 C:\Users\Virtue Nguyen\Documents\GitHub\project\SoHoc\SoHoc\obj\Debug\net6.0\SoHoc.pdb
 C:\Users\Virtue Nguyen\Documents\GitHub\project\SoHoc\SoHoc\obj\Debug\net6.0\SoHoc.genruntimeconfig.cache
 C:\Users\Virtue Nguyen\Documents\GitHub\project\SoHoc\SoHoc\obj\Debug\net6.0\ref\SoHoc.dll
+C:\Users\ductrong.nguyen\Documents\GitHub\project\SoHoc\SoHoc\bin\Debug\net6.0\SoHoc.exe
+C:\Users\ductrong.nguyen\Documents\GitHub\project\SoHoc\SoHoc\bin\Debug\net6.0\SoHoc.deps.json
+C:\Users\ductrong.nguyen\Documents\GitHub\project\SoHoc\SoHoc\bin\Debug\net6.0\SoHoc.runtimeconfig.json
+C:\Users\ductrong.nguyen\Documents\GitHub\project\SoHoc\SoHoc\bin\Debug\net6.0\SoHoc.dll
+C:\Users\ductrong.nguyen\Documents\GitHub\project\SoHoc\SoHoc\bin\Debug\net6.0\SoHoc.pdb
+C:\Users\ductrong.nguyen\Documents\GitHub\project\SoHoc\SoHoc\obj\Debug\net6.0\SoHoc.csproj.AssemblyReference.cache
+C:\Users\ductrong.nguyen\Documents\GitHub\project\SoHoc\SoHoc\obj\Debug\net6.0\SoHoc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ductrong.nguyen\Documents\GitHub\project\SoHoc\SoHoc\obj\Debug\net6.0\SoHoc.AssemblyInfoInputs.cache
+C:\Users\ductrong.nguyen\Documents\GitHub\project\SoHoc\SoHoc\obj\Debug\net6.0\SoHoc.AssemblyInfo.cs
+C:\Users\ductrong.nguyen\Documents\GitHub\project\SoHoc\SoHoc\obj\Debug\net6.0\SoHoc.csproj.CoreCompileInputs.cache
+C:\Users\ductrong.nguyen\Documents\GitHub\project\SoHoc\SoHoc\obj\Debug\net6.0\SoHoc.dll
+C:\Users\ductrong.nguyen\Documents\GitHub\project\SoHoc\SoHoc\obj\Debug\net6.0\refint\SoHoc.dll
+C:\Users\ductrong.nguyen\Documents\GitHub\project\SoHoc\SoHoc\obj\Debug\net6.0\SoHoc.pdb
+C:\Users\ductrong.nguyen\Documents\GitHub\project\SoHoc\SoHoc\obj\Debug\net6.0\SoHoc.genruntimeconfig.cache
+C:\Users\ductrong.nguyen\Documents\GitHub\project\SoHoc\SoHoc\obj\Debug\net6.0\ref\SoHoc.dll
